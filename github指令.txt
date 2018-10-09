@@ -3,7 +3,7 @@ git config --global user.email
 
 // 初始设置全局的用户名和email;
 
-如果后面出现了报错 报错包含 place tell me who u are ; 说明初始设置不对;
+如果后面出现了报错 报错包含 place tell me who u are ; 说明初始设置不对
 
 
 git init  初始化git仓库的指令；
